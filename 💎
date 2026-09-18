@@ -8,14 +8,10 @@ vless://bcc2f72f-62ea-4d2d-914a-8a6ae5409724@docs.helpscenter.xyz:6443?encryptio
 vless://1f959100-a98b-47fb-84fa-359246dc458a@apicdn.4subnodes.com:443?encryption=none&flow=&fp=firefox&host=apicdn.4subnodes.com&path=%2Fapiv1%2Fesa1-asda2jcvnbpseflkn-kjweksad&security=tls&sni=apicdn.4subnodes.com&type=ws#%F0%9F%94%B5@chillguy_vpn
 vless://cb2dbb6a-a1ea-4023-9ace-6466cee57241@51.81.203.63:443?encryption=none&flow=xtls-rprx-vision&pbk=nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0&security=reality&sid=4477382ff6d3d41c&sni=www.icloud.com&type=tcp#2%E2%9B%BD@oneclickvpnkeys
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&type=tcp#%F0%9F%8F%8070@oneclickvpnkeys
-socks5://135.125.232.151:1080#%E2%9A%99%EF%B8%8F13@oneclickvpnkeys
 vless://60a361f9-3c45-4954-9e4c-92a85bda243d@new2.smart-cats.ru:2053?encryption=none&flow=&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&security=reality&serviceName=grpc&sid=4881f8244d1b9021&sni=www.google.com&type=grpc#%F0%9F%92%8853@oneclickvpnkeys
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl3.moritech.net&type=tcp#%F0%9F%92%8860@oneclickvpnkeys
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?encryption=none&flow=xtls-rprx-vision&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&type=tcp#%F0%9F%92%8887@oneclickvpnkeys
-http://200.94.38.46:2604#4%F0%9F%92%88@oneclickvpnkeys
-vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@web.turbooserver.net.tr:8443?encryption=none&flow=&headerType=http&host=dynu.com&path=%2F&type=tcp#%F0%9F%90%9217@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
-vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?encryption=none&flow=&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AC
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&security=reality&sid=68a8&sni=deepl.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B3
 vless://5e3f974b-06fc-4555-907a-6681391b7c17@private.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&security=reality&sid=2bc0&sni=deepl.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&flow=&fp=chrome&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&security=reality&sid=aae8&sni=deepl.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -28,8 +24,4 @@ ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ==@82.47.186.18:19290#Channel
 ss://YWVzLTI1Ni1nY206UHJveHkyMDI0@23.252.104.131:54321#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTI1Ni1nY206MzhiOGUyZmItYjlhMC00MGE2LWI0MmMtMzM1ZGVmMjc2NWNm@jp-2.gsafevpnapi.com:31870#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ==@82.47.186.18:55597#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-trojan://Km%2FpIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?allowInsecure=1&alpn=http%2F1.1&fp=firefox&host=%2Fgay-anal&path=node8.quaxly.com&security=tls&sni=node8.quaxly.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA17@exclavevpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.160.193:22224?encryption=none&flow=&type=tcp#@VlessConfig%20%F0%9F%87%A8%F0%9F%87%B5
 vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&security=reality&sid=fe24f8a0a560056e&sni=www.datadoghq.com&type=tcp#%F0%9F%94%B5@chillguy_vpn
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp&type=ws#%F0%9F%94%B5@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.160.193:22223?encryption=none&flow=&type=tcp#@filembad
